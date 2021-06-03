@@ -1,0 +1,55 @@
+[
+    {
+        "providerName" : "Mona James",
+        "importantDates":[
+                            { "id": "632021",
+                              "appointments" : [14],
+                              "requestedTimes" : [13]
+                            },
+                            { "id": "642021",
+                                "appointments" : [11],
+                                "requestedTimes" : []
+                            },
+                            { "id": "652021",
+                                "appointments" : [],
+                                "requestedTimes" : [12]
+                            }
+                        ]
+    },
+
+    {    "providerName" : "Mark Siwa",
+        "importantDates":[
+                            { "id": "632021",
+                                "appointments" : [16],
+                                "requestedTimes" : [12]
+                            },
+                            { "id": "642021",
+                                "appointments" : [11],
+                                "requestedTimes" : []
+                            },
+                            { "id": "652021",
+                                "appointments" : [],
+                                "requestedTimes" : [14]
+                            }
+                        ]
+    },
+    {
+        "providerName" : "Loona Charles",
+        "importantDates":[
+                            { "id": "632021",
+                              "appointments" : [14],
+                              "requestedTimes" : [13]
+                            },
+                            { "id": "642021",
+                                "appointments" : [10],
+                                "requestedTimes" : []
+                            },
+                            { "id": "652021",
+                                "appointments" : [],
+                                "requestedTimes" : [15]
+                            }
+                        ]
+    
+    }
+
+]
