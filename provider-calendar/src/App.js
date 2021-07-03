@@ -1,6 +1,5 @@
 import './App.css';
 import FullPage from './calendar'
-//Iam adding a comment
 function App() {
   return (
     <div className="App">
